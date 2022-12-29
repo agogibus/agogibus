@@ -1,4 +1,9 @@
-### Hi there 👋
+
+👋 I am Agogibus and I embarqued in a new challenge: School 42.
+
+💻 I did 3 years of study at School 42, learning code from scratch (C, C++, Docker, k8s, bash, JavaScrip, NestJs, React, git...)
+
+🚀 Now I decided to expand my skillset with new language and to try cybersecurity 
 
 <!--
 **agogibus/agogibus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
