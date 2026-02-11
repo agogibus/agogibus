@@ -1,9 +1,9 @@
 
-👋 DevOps & Security Engineer | 42 School
+👋 Student | 42 School
 
-🔒 Passionate about cryptography, system security & DevSecOps practices
+🌍 Web: React/Next.js, React Native, Flutter
 
-🛠️ Stack: C/C++, Docker, k8s, NestJS, React, Linux hardening
+🛠️ Systems: C/C++, Docker, k8s, Linux hardening
 
 
 <p align="center">
